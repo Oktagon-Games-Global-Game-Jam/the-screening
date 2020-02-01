@@ -7525,3 +7525,560 @@ Please see Output Log for details.
 [2020.02.01-18.14.47:629][201]LogEditorViewport: Clicking on Actor (LMB): Brush (top4)
 [2020.02.01-18.14.58:377][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_bridge3)
 [2020.02.01-18.14.59:691][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_bridge4)
+[2020.02.01-18.15.52:541][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.15.55:706][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.01-18.15.56:125][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_Auto78E1B61D34AF19D0FB5E9DCB5F67EF2A4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto7.umap'
+[2020.02.01-18.15.56:131][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.451
+[2020.02.01-18.15.56:131][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.451
+[2020.02.01-18.15.56:132][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Armario_024] ([1] browsable assets)...
+[2020.02.01-18.15.56:142][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Armario_024.Cabinets_Armario_024]
+[2020.02.01-18.15.56:143][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Armario_024]
+[2020.02.01-18.15.56:168][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Armario_024_Auto74BE8E15C49D641166F6D68B827302B5C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Armario_024_Auto7.uasset'
+[2020.02.01-18.15.56:169][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalCinza] ([1] browsable assets)...
+[2020.02.01-18.15.56:179][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalCinza.MTRMetalCinza]
+[2020.02.01-18.15.56:179][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalCinza]
+[2020.02.01-18.15.56:195][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalCinza_Auto7076281F34B24CAE00336BF919104A005.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalCinza_Auto7.uasset'
+[2020.02.01-18.15.56:196][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio] ([1] browsable assets)...
+[2020.02.01-18.15.56:207][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio.MTRMetalAluminio]
+[2020.02.01-18.15.56:207][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio]
+[2020.02.01-18.15.56:223][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalAluminio_Auto7EAE8448A45825C6130B2D6A4278A8FF4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio_Auto7.uasset'
+[2020.02.01-18.15.56:224][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalBranco] ([1] browsable assets)...
+[2020.02.01-18.15.56:235][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalBranco.MTRMetalBranco]
+[2020.02.01-18.15.56:235][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalBranco]
+[2020.02.01-18.15.56:249][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalBranco_Auto7D99C185E4047F85BBE788F9EFD4473A9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalBranco_Auto7.uasset'
+[2020.02.01-18.15.56:250][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube98] ([1] browsable assets)...
+[2020.02.01-18.15.56:260][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube98.Cabinets_pCube98]
+[2020.02.01-18.15.56:260][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube98]
+[2020.02.01-18.15.56:275][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube98_Auto7AC4CFBF94F2B839F69B397A4D710A5E7.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube98_Auto7.uasset'
+[2020.02.01-18.15.56:277][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalCinza2] ([1] browsable assets)...
+[2020.02.01-18.15.56:287][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalCinza2.MTRMetalCinza2]
+[2020.02.01-18.15.56:287][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalCinza2]
+[2020.02.01-18.15.56:305][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalCinza2_Auto7719807FD417551F42EC38DA3F15637C3.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalCinza2_Auto7.uasset'
+[2020.02.01-18.15.56:306][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube99] ([1] browsable assets)...
+[2020.02.01-18.15.56:316][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube99.Cabinets_pCube99]
+[2020.02.01-18.15.56:316][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube99]
+[2020.02.01-18.15.56:332][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube99_Auto790C71951412E52A0126CFAB36CD613BF.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube99_Auto7.uasset'
+[2020.02.01-18.15.56:333][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube100] ([1] browsable assets)...
+[2020.02.01-18.15.56:343][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube100.Cabinets_pCube100]
+[2020.02.01-18.15.56:343][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube100]
+[2020.02.01-18.15.56:358][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube100_Auto77354A94E4D1D6E6E0C3D76A4E79B5C2E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube100_Auto7.uasset'
+[2020.02.01-18.15.56:359][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube101] ([1] browsable assets)...
+[2020.02.01-18.15.56:368][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube101.Cabinets_pCube101]
+[2020.02.01-18.15.56:368][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube101]
+[2020.02.01-18.15.56:386][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube101_Auto78446ADE74F9E5B6025B6EA8FF08E1B8B.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube101_Auto7.uasset'
+[2020.02.01-18.15.56:387][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube102] ([1] browsable assets)...
+[2020.02.01-18.15.56:397][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube102.Cabinets_pCube102]
+[2020.02.01-18.15.56:397][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube102]
+[2020.02.01-18.15.56:412][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube102_Auto7D25B266346751481FBA6E9BB64874576.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube102_Auto7.uasset'
+[2020.02.01-18.15.56:413][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube103] ([1] browsable assets)...
+[2020.02.01-18.15.56:422][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube103.Cabinets_pCube103]
+[2020.02.01-18.15.56:422][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube103]
+[2020.02.01-18.15.56:439][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube103_Auto7672597504FD0BDD52F5865960D0077BE.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube103_Auto7.uasset'
+[2020.02.01-18.15.56:440][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube104] ([1] browsable assets)...
+[2020.02.01-18.15.56:450][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube104.Cabinets_pCube104]
+[2020.02.01-18.15.56:450][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube104]
+[2020.02.01-18.15.56:465][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube104_Auto716E5DAAA4CEC6E66CE6C1CA6361BFC8F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube104_Auto7.uasset'
+[2020.02.01-18.15.56:466][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube105] ([1] browsable assets)...
+[2020.02.01-18.15.56:477][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube105.Cabinets_pCube105]
+[2020.02.01-18.15.56:477][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube105]
+[2020.02.01-18.15.56:492][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube105_Auto78E225D454B93DABBA8FA58BB256AD6C1.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube105_Auto7.uasset'
+[2020.02.01-18.15.56:493][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube106] ([1] browsable assets)...
+[2020.02.01-18.15.56:503][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube106.Cabinets_pCube106]
+[2020.02.01-18.15.56:503][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube106]
+[2020.02.01-18.15.56:518][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube106_Auto7781D0FC0489EB45B2ED30184D67D02D6.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube106_Auto7.uasset'
+[2020.02.01-18.15.56:519][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube107] ([1] browsable assets)...
+[2020.02.01-18.15.56:529][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube107.Cabinets_pCube107]
+[2020.02.01-18.15.56:529][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube107]
+[2020.02.01-18.15.56:545][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube107_Auto7DADEA8CE4C80E07CABCE3F8BB0037F1C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube107_Auto7.uasset'
+[2020.02.01-18.15.56:546][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube108] ([1] browsable assets)...
+[2020.02.01-18.15.56:556][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube108.Cabinets_pCube108]
+[2020.02.01-18.15.56:556][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube108]
+[2020.02.01-18.15.56:572][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube108_Auto7A68CA27F45A9A8E401ECB3B14591EA5F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube108_Auto7.uasset'
+[2020.02.01-18.15.56:574][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio1] ([1] browsable assets)...
+[2020.02.01-18.15.56:583][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio1.MTRMetalAluminio1]
+[2020.02.01-18.15.56:583][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio1]
+[2020.02.01-18.15.56:598][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalAluminio1_Auto7F01BD9FC4CA1F0DDED23079F6E5B6E91.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalAluminio1_Auto7.uasset'
+[2020.02.01-18.15.56:599][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube109] ([1] browsable assets)...
+[2020.02.01-18.15.56:609][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube109.Cabinets_pCube109]
+[2020.02.01-18.15.56:609][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube109]
+[2020.02.01-18.15.56:624][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube109_Auto712D4EB3E41B93C143DC4EB8A0F3DA1ED.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube109_Auto7.uasset'
+[2020.02.01-18.15.56:625][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube110] ([1] browsable assets)...
+[2020.02.01-18.15.56:634][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube110.Cabinets_pCube110]
+[2020.02.01-18.15.56:634][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube110]
+[2020.02.01-18.15.56:649][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube110_Auto7DF55C0DD4BE1D4BB33B565A31202A025.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube110_Auto7.uasset'
+[2020.02.01-18.15.56:650][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube111] ([1] browsable assets)...
+[2020.02.01-18.15.56:660][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube111.Cabinets_pCube111]
+[2020.02.01-18.15.56:660][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube111]
+[2020.02.01-18.15.56:675][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube111_Auto757A3CA71428F389517D2938F59210A1A.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube111_Auto7.uasset'
+[2020.02.01-18.15.56:676][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube112] ([1] browsable assets)...
+[2020.02.01-18.15.56:686][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube112.Cabinets_pCube112]
+[2020.02.01-18.15.56:686][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube112]
+[2020.02.01-18.15.56:703][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube112_Auto74E5022C74E4F741DD2E9DA8FE2BA1166.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube112_Auto7.uasset'
+[2020.02.01-18.15.56:704][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube113] ([1] browsable assets)...
+[2020.02.01-18.15.56:714][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube113.Cabinets_pCube113]
+[2020.02.01-18.15.56:714][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube113]
+[2020.02.01-18.15.56:730][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube113_Auto791975A0945C930190EF0168838F0D1CB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube113_Auto7.uasset'
+[2020.02.01-18.15.56:731][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube114] ([1] browsable assets)...
+[2020.02.01-18.15.56:740][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube114.Cabinets_pCube114]
+[2020.02.01-18.15.56:741][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube114]
+[2020.02.01-18.15.56:762][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube114_Auto7EBA4E3A74F0382C398B72DB9BC28A318.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube114_Auto7.uasset'
+[2020.02.01-18.15.56:763][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube115] ([1] browsable assets)...
+[2020.02.01-18.15.56:772][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube115.Cabinets_pCube115]
+[2020.02.01-18.15.56:772][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube115]
+[2020.02.01-18.15.56:790][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube115_Auto76452F51542F50D87D053EE984B31815B.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube115_Auto7.uasset'
+[2020.02.01-18.15.56:790][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube116] ([1] browsable assets)...
+[2020.02.01-18.15.56:800][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube116.Cabinets_pCube116]
+[2020.02.01-18.15.56:800][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube116]
+[2020.02.01-18.15.56:816][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube116_Auto72EB331B34F028A3C2023548EDD01E641.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube116_Auto7.uasset'
+[2020.02.01-18.15.56:817][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalBranco2] ([1] browsable assets)...
+[2020.02.01-18.15.56:827][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalBranco2.MTRMetalBranco2]
+[2020.02.01-18.15.56:827][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalBranco2]
+[2020.02.01-18.15.56:843][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalBranco2_Auto73DF6FCF44080234203F204BCAD24C883.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalBranco2_Auto7.uasset'
+[2020.02.01-18.15.56:844][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube117] ([1] browsable assets)...
+[2020.02.01-18.15.56:853][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube117.Cabinets_pCube117]
+[2020.02.01-18.15.56:854][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube117]
+[2020.02.01-18.15.56:868][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube117_Auto7E1E492BE49150CF38830DB90A27EBB2E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube117_Auto7.uasset'
+[2020.02.01-18.15.56:869][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube118] ([1] browsable assets)...
+[2020.02.01-18.15.56:878][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube118.Cabinets_pCube118]
+[2020.02.01-18.15.56:878][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube118]
+[2020.02.01-18.15.56:894][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube118_Auto78E0EBE0E44B05BE0143E5FADE3AE32D8.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube118_Auto7.uasset'
+[2020.02.01-18.15.56:895][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube119] ([1] browsable assets)...
+[2020.02.01-18.15.56:905][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube119.Cabinets_pCube119]
+[2020.02.01-18.15.56:905][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube119]
+[2020.02.01-18.15.56:919][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube119_Auto7A61A175D499D5E4148C00C9DE988C094.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube119_Auto7.uasset'
+[2020.02.01-18.15.56:920][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube97] ([1] browsable assets)...
+[2020.02.01-18.15.56:930][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube97.Cabinets_pCube97]
+[2020.02.01-18.15.56:930][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube97]
+[2020.02.01-18.15.56:947][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube97_Auto79D6A629B434D2181648BFEA28176A4D9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube97_Auto7.uasset'
+[2020.02.01-18.15.56:948][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68] ([1] browsable assets)...
+[2020.02.01-18.15.56:958][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68.Cabinets_pCube68]
+[2020.02.01-18.15.56:958][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68]
+[2020.02.01-18.15.56:975][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube68_Auto79CF222A3400834EA6D0CA5BF41BBCFFB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68_Auto7.uasset'
+[2020.02.01-18.15.56:976][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRPlasticoPreto2] ([1] browsable assets)...
+[2020.02.01-18.15.56:986][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRPlasticoPreto2.MTRPlasticoPreto2]
+[2020.02.01-18.15.56:986][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRPlasticoPreto2]
+[2020.02.01-18.15.57:002][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRPlasticoPreto2_Auto78EFDB1A94A1948794497A69AF6B7EF0D.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRPlasticoPreto2_Auto7.uasset'
+[2020.02.01-18.15.57:003][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69] ([1] browsable assets)...
+[2020.02.01-18.15.57:013][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69.Cabinets_pCube69]
+[2020.02.01-18.15.57:013][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69]
+[2020.02.01-18.15.57:028][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube69_Auto7D9F3ABBC492821FEA83258A9F6DCAE16.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69_Auto7.uasset'
+[2020.02.01-18.15.57:029][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70] ([1] browsable assets)...
+[2020.02.01-18.15.57:038][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70.Cabinets_pCube70]
+[2020.02.01-18.15.57:038][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70]
+[2020.02.01-18.15.57:054][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube70_Auto71F0DBD4F4DF5258BF32C2AB73A19ED34.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70_Auto7.uasset'
+[2020.02.01-18.15.57:055][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71] ([1] browsable assets)...
+[2020.02.01-18.15.57:065][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71.Cabinets_pCube71]
+[2020.02.01-18.15.57:065][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71]
+[2020.02.01-18.15.57:080][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube71_Auto7DC67B8924DC746FBBB38B88C233AED4E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71_Auto7.uasset'
+[2020.02.01-18.15.57:081][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72] ([1] browsable assets)...
+[2020.02.01-18.15.57:090][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72.Cabinets_pCube72]
+[2020.02.01-18.15.57:090][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72]
+[2020.02.01-18.15.57:105][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube72_Auto7B991339B421A7BDF365706A26C9FF678.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72_Auto7.uasset'
+[2020.02.01-18.15.57:106][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73] ([1] browsable assets)...
+[2020.02.01-18.15.57:116][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73.Cabinets_pCube73]
+[2020.02.01-18.15.57:116][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73]
+[2020.02.01-18.15.57:130][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube73_Auto7A8A8BA524E8E819BF6BF13902FCA0800.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73_Auto7.uasset'
+[2020.02.01-18.15.57:131][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20] ([1] browsable assets)...
+[2020.02.01-18.15.57:141][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20.Cabinets_pCylinder20]
+[2020.02.01-18.15.57:141][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20]
+[2020.02.01-18.15.57:158][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCylinder20_Auto7FC9D30CC46269D067427CC96B0B9C5BE.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20_Auto7.uasset'
+[2020.02.01-18.15.57:159][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74] ([1] browsable assets)...
+[2020.02.01-18.15.57:168][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74.Cabinets_pCube74]
+[2020.02.01-18.15.57:168][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74]
+[2020.02.01-18.15.57:189][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube74_Auto7636DD66C46FAF7BF9E32B6B46DFC3B81.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74_Auto7.uasset'
+[2020.02.01-18.15.57:190][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75] ([1] browsable assets)...
+[2020.02.01-18.15.57:200][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75.Cabinets_pCube75]
+[2020.02.01-18.15.57:200][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75]
+[2020.02.01-18.15.57:215][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube75_Auto7605FF22A443295656970809E1E46D635.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75_Auto7.uasset'
+[2020.02.01-18.15.57:216][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/MTRMetalBrancoEscuro2] ([1] browsable assets)...
+[2020.02.01-18.15.57:226][451]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Assets/Cabniets/MTRMetalBrancoEscuro2.MTRMetalBrancoEscuro2]
+[2020.02.01-18.15.57:226][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/MTRMetalBrancoEscuro2]
+[2020.02.01-18.15.57:241][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MTRMetalBrancoEscuro2_Auto74321E46749DEA6C95E4A66A53D310BE4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/MTRMetalBrancoEscuro2_Auto7.uasset'
+[2020.02.01-18.15.57:242][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76] ([1] browsable assets)...
+[2020.02.01-18.15.57:252][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76.Cabinets_pCube76]
+[2020.02.01-18.15.57:252][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76]
+[2020.02.01-18.15.57:267][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube76_Auto7C74ECCD1423544EFDD0162A708FA5EAC.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76_Auto7.uasset'
+[2020.02.01-18.15.57:269][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77] ([1] browsable assets)...
+[2020.02.01-18.15.57:278][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77.Cabinets_pCube77]
+[2020.02.01-18.15.57:278][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77]
+[2020.02.01-18.15.57:293][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube77_Auto7D95D11E644880BC2F4FD04A490F874AB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77_Auto7.uasset'
+[2020.02.01-18.15.57:294][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78] ([1] browsable assets)...
+[2020.02.01-18.15.57:304][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78.Cabinets_pCube78]
+[2020.02.01-18.15.57:304][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78]
+[2020.02.01-18.15.57:319][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube78_Auto7D455E3CD40BA6F1EF6DD25B0E2B652A2.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78_Auto7.uasset'
+[2020.02.01-18.15.57:320][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79] ([1] browsable assets)...
+[2020.02.01-18.15.57:330][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79.Cabinets_pCube79]
+[2020.02.01-18.15.57:330][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79]
+[2020.02.01-18.15.57:345][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube79_Auto781A47B4E47699CE6F2B3A0AA2B2C7B2E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79_Auto7.uasset'
+[2020.02.01-18.15.57:346][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80] ([1] browsable assets)...
+[2020.02.01-18.15.57:355][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80.Cabinets_pCube80]
+[2020.02.01-18.15.57:355][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80]
+[2020.02.01-18.15.57:371][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube80_Auto713E49AC1403D2562412C7EBBCD65EE84.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80_Auto7.uasset'
+[2020.02.01-18.15.57:372][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81] ([1] browsable assets)...
+[2020.02.01-18.15.57:382][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81.Cabinets_pCube81]
+[2020.02.01-18.15.57:382][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81]
+[2020.02.01-18.15.57:397][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube81_Auto7821D9B1B4B245A2198368192ED3D78B9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81_Auto7.uasset'
+[2020.02.01-18.15.57:398][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82] ([1] browsable assets)...
+[2020.02.01-18.15.57:407][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82.Cabinets_pCube82]
+[2020.02.01-18.15.57:407][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82]
+[2020.02.01-18.15.57:423][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube82_Auto73C98607A40E51C206DBBE6BE39F45C73.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82_Auto7.uasset'
+[2020.02.01-18.15.57:424][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83] ([1] browsable assets)...
+[2020.02.01-18.15.57:433][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83.Cabinets_pCube83]
+[2020.02.01-18.15.57:433][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83]
+[2020.02.01-18.15.57:448][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube83_Auto715A9CEC1472B440279044F893C46128D.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83_Auto7.uasset'
+[2020.02.01-18.15.57:449][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84] ([1] browsable assets)...
+[2020.02.01-18.15.57:459][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84.Cabinets_pCube84]
+[2020.02.01-18.15.57:459][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84]
+[2020.02.01-18.15.57:475][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube84_Auto72FBFA6D84FC3F01EF13A66B6659C6A48.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84_Auto7.uasset'
+[2020.02.01-18.15.57:476][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85] ([1] browsable assets)...
+[2020.02.01-18.15.57:485][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85.Cabinets_pCube85]
+[2020.02.01-18.15.57:485][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85]
+[2020.02.01-18.15.57:500][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube85_Auto7CA1B6ABF45F27C4410872FB231F28F3F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85_Auto7.uasset'
+[2020.02.01-18.15.57:501][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22] ([1] browsable assets)...
+[2020.02.01-18.15.57:511][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22.Cabinets_Parafuso22]
+[2020.02.01-18.15.57:511][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22]
+[2020.02.01-18.15.57:527][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso22_Auto75E4E6A704951778CEAB3D0B117F9E337.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22_Auto7.uasset'
+[2020.02.01-18.15.57:528][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23] ([1] browsable assets)...
+[2020.02.01-18.15.57:538][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23.Cabinets_Parafuso23]
+[2020.02.01-18.15.57:538][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23]
+[2020.02.01-18.15.57:553][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso23_Auto7082DE40A45A94D31C80A22A651D48ECA.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23_Auto7.uasset'
+[2020.02.01-18.15.57:554][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24] ([1] browsable assets)...
+[2020.02.01-18.15.57:564][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24.Cabinets_Parafuso24]
+[2020.02.01-18.15.57:564][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24]
+[2020.02.01-18.15.57:580][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso24_Auto7E1820C9F4F85A4ABBFF21294205DCBD9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24_Auto7.uasset'
+[2020.02.01-18.15.57:581][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25] ([1] browsable assets)...
+[2020.02.01-18.15.57:593][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25.Cabinets_Parafuso25]
+[2020.02.01-18.15.57:593][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25]
+[2020.02.01-18.15.57:607][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso25_Auto7A1509D6445A65D3A1A0E64A711F580EE.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25_Auto7.uasset'
+[2020.02.01-18.15.57:608][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86] ([1] browsable assets)...
+[2020.02.01-18.15.57:620][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86.Cabinets_pCube86]
+[2020.02.01-18.15.57:620][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86]
+[2020.02.01-18.15.57:636][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube86_Auto7DB3349FB4CC2EA3FF2B1309E01CB20A9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86_Auto7.uasset'
+[2020.02.01-18.15.57:637][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87] ([1] browsable assets)...
+[2020.02.01-18.15.57:649][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87.Cabinets_pCube87]
+[2020.02.01-18.15.57:649][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87]
+[2020.02.01-18.15.57:666][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube87_Auto7A23E1B4B49727C683B992EADB1E9845B.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87_Auto7.uasset'
+[2020.02.01-18.15.57:666][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88] ([1] browsable assets)...
+[2020.02.01-18.15.57:678][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88.Cabinets_pCube88]
+[2020.02.01-18.15.57:678][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88]
+[2020.02.01-18.15.57:693][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube88_Auto776210A75437A89A23DE7A2823B11C1EF.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88_Auto7.uasset'
+[2020.02.01-18.15.57:694][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89] ([1] browsable assets)...
+[2020.02.01-18.15.57:705][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89.Cabinets_pCube89]
+[2020.02.01-18.15.57:705][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89]
+[2020.02.01-18.15.57:721][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube89_Auto7C10785D647769EB877E4A0A0B61A2C84.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89_Auto7.uasset'
+[2020.02.01-18.15.57:721][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90] ([1] browsable assets)...
+[2020.02.01-18.15.57:733][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90.Cabinets_pCube90]
+[2020.02.01-18.15.57:733][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90]
+[2020.02.01-18.15.57:749][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube90_Auto74BE190654A14D87A445EB58B5E806E8E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90_Auto7.uasset'
+[2020.02.01-18.15.57:750][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91] ([1] browsable assets)...
+[2020.02.01-18.15.57:762][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91.Cabinets_pCube91]
+[2020.02.01-18.15.57:762][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91]
+[2020.02.01-18.15.57:779][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube91_Auto7115BFB794858A4A779A699810DA8E550.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91_Auto7.uasset'
+[2020.02.01-18.15.57:780][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92] ([1] browsable assets)...
+[2020.02.01-18.15.57:792][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92.Cabinets_pCube92]
+[2020.02.01-18.15.57:792][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92]
+[2020.02.01-18.15.57:807][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube92_Auto7CA4D56504E4E784F4FE09ABE30225F7E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92_Auto7.uasset'
+[2020.02.01-18.15.57:808][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93] ([1] browsable assets)...
+[2020.02.01-18.15.57:820][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93.Cabinets_pCube93]
+[2020.02.01-18.15.57:820][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93]
+[2020.02.01-18.15.57:835][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube93_Auto7B77493DC40EF81BDB660CDA20983D8A7.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93_Auto7.uasset'
+[2020.02.01-18.15.57:836][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94] ([1] browsable assets)...
+[2020.02.01-18.15.57:848][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94.Cabinets_pCube94]
+[2020.02.01-18.15.57:848][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94]
+[2020.02.01-18.15.57:863][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube94_Auto71C88B32D47C21D5B37AF3C9EE525DE0C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94_Auto7.uasset'
+[2020.02.01-18.15.57:863][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95] ([1] browsable assets)...
+[2020.02.01-18.15.57:875][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95.Cabinets_pCube95]
+[2020.02.01-18.15.57:875][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95]
+[2020.02.01-18.15.57:890][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube95_Auto79873E2BB4B3483D80737218139B47760.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95_Auto7.uasset'
+[2020.02.01-18.15.57:891][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96] ([1] browsable assets)...
+[2020.02.01-18.15.57:902][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96.Cabinets_pCube96]
+[2020.02.01-18.15.57:903][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96]
+[2020.02.01-18.15.57:917][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube96_Auto7713C587D4AB0B01C0D1938B212EB8BE4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96_Auto7.uasset'
+[2020.02.01-18.15.57:918][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26] ([1] browsable assets)...
+[2020.02.01-18.15.57:930][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26.Cabinets_Parafuso26]
+[2020.02.01-18.15.57:930][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26]
+[2020.02.01-18.15.57:946][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso26_Auto70BBF699A4621D5E695B7FCA28E43C9E6.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26_Auto7.uasset'
+[2020.02.01-18.15.57:947][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27] ([1] browsable assets)...
+[2020.02.01-18.15.57:960][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27.Cabinets_Parafuso27]
+[2020.02.01-18.15.57:960][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27]
+[2020.02.01-18.15.57:976][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso27_Auto7D8FBD9B84E79B12C19B897B34F87DF99.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27_Auto7.uasset'
+[2020.02.01-18.15.57:977][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28] ([1] browsable assets)...
+[2020.02.01-18.15.57:988][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28.Cabinets_Parafuso28]
+[2020.02.01-18.15.57:988][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28]
+[2020.02.01-18.15.58:004][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso28_Auto7DF8D383A4755E20F2E7FE880912C6481.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28_Auto7.uasset'
+[2020.02.01-18.15.58:004][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29] ([1] browsable assets)...
+[2020.02.01-18.15.58:016][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29.Cabinets_Parafuso29]
+[2020.02.01-18.15.58:016][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29]
+[2020.02.01-18.15.58:032][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso29_Auto7FBACDA414F69CB2624163F83453B56A8.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29_Auto7.uasset'
+[2020.02.01-18.15.58:033][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21] ([1] browsable assets)...
+[2020.02.01-18.15.58:045][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21.Cabinets_pCylinder21]
+[2020.02.01-18.15.58:046][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21]
+[2020.02.01-18.15.58:062][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCylinder21_Auto7C87E2670421BC047B9C3E3BF21020065.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21_Auto7.uasset'
+[2020.02.01-18.15.58:064][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12] ([1] browsable assets)...
+[2020.02.01-18.15.58:077][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12.Cabinets_PortaUmbralFerrolho12]
+[2020.02.01-18.15.58:077][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12]
+[2020.02.01-18.15.58:094][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_PortaUmbralFerrolho12_A685CC3A0435C0EF8CADA61AA2D867BE1.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12_Auto7.uasset'
+[2020.02.01-18.15.58:095][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11] ([1] browsable assets)...
+[2020.02.01-18.15.58:106][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11.Cabinets_PortaUmbralFerrolho11]
+[2020.02.01-18.15.58:106][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11]
+[2020.02.01-18.15.58:126][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_PortaUmbralFerrolho11_A1749D4B0433CF9EFA6C02799C509B279.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11_Auto7.uasset'
+[2020.02.01-18.15.58:127][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13] ([1] browsable assets)...
+[2020.02.01-18.15.58:139][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13.Cabinets_PortaUmbralFerrolho13]
+[2020.02.01-18.15.58:139][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13]
+[2020.02.01-18.15.58:159][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_PortaUmbralFerrolho13_AEEDBFF9D4C29A9FEA7F0EFB37CA0FB6F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13_Auto7.uasset'
+[2020.02.01-18.15.58:160][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:172][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68_1.Cabinets_pCube68_1]
+[2020.02.01-18.15.58:172][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68_1]
+[2020.02.01-18.15.58:189][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube68_1_Auto7C00A535B4C61BBE572BBA29ED2EA1767.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68_1_Auto7.uasset'
+[2020.02.01-18.15.58:190][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:202][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69_1.Cabinets_pCube69_1]
+[2020.02.01-18.15.58:202][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69_1]
+[2020.02.01-18.15.58:225][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube69_1_Auto78F13E1964430BFEB48BD4BBCE20E3DAF.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69_1_Auto7.uasset'
+[2020.02.01-18.15.58:226][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:238][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70_1.Cabinets_pCube70_1]
+[2020.02.01-18.15.58:238][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70_1]
+[2020.02.01-18.15.58:259][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube70_1_Auto7065FABCD4CEDAE6FAA56039DB112F94E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70_1_Auto7.uasset'
+[2020.02.01-18.15.58:259][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:271][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71_1.Cabinets_pCube71_1]
+[2020.02.01-18.15.58:272][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71_1]
+[2020.02.01-18.15.58:290][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube71_1_Auto7DE5783B94C35123EE6D6679411875234.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71_1_Auto7.uasset'
+[2020.02.01-18.15.58:291][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:303][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72_1.Cabinets_pCube72_1]
+[2020.02.01-18.15.58:304][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72_1]
+[2020.02.01-18.15.58:321][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube72_1_Auto730D14AD848E56451708C3BBDB49785F2.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72_1_Auto7.uasset'
+[2020.02.01-18.15.58:322][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:334][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73_1.Cabinets_pCube73_1]
+[2020.02.01-18.15.58:334][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73_1]
+[2020.02.01-18.15.58:349][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube73_1_Auto7BD7FD37B42E3FF16BCD1048F07BC75F9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73_1_Auto7.uasset'
+[2020.02.01-18.15.58:350][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:362][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20_1.Cabinets_pCylinder20_1]
+[2020.02.01-18.15.58:362][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20_1]
+[2020.02.01-18.15.58:388][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCylinder20_1_Auto7575632E54E0163D02C6A29A569A19B2C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20_1_Auto7.uasset'
+[2020.02.01-18.15.58:389][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:401][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74_1.Cabinets_pCube74_1]
+[2020.02.01-18.15.58:401][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74_1]
+[2020.02.01-18.15.58:422][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube74_1_Auto75456351B4656D618A7727780BA982F92.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74_1_Auto7.uasset'
+[2020.02.01-18.15.58:423][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:436][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75_1.Cabinets_pCube75_1]
+[2020.02.01-18.15.58:436][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75_1]
+[2020.02.01-18.15.58:528][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube75_1_Auto7C070AA254E7C41889010BFA009110A58.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75_1_Auto7.uasset'
+[2020.02.01-18.15.58:529][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:543][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76_1.Cabinets_pCube76_1]
+[2020.02.01-18.15.58:543][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76_1]
+[2020.02.01-18.15.58:926][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube76_1_Auto74FED6296471CA7D620A644BFE84768C8.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76_1_Auto7.uasset'
+[2020.02.01-18.15.58:927][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:939][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77_1.Cabinets_pCube77_1]
+[2020.02.01-18.15.58:940][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77_1]
+[2020.02.01-18.15.58:956][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube77_1_Auto742D36C754A5A3C8DC12918A52B815882.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77_1_Auto7.uasset'
+[2020.02.01-18.15.58:957][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78_1] ([1] browsable assets)...
+[2020.02.01-18.15.58:970][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78_1.Cabinets_pCube78_1]
+[2020.02.01-18.15.58:970][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78_1]
+[2020.02.01-18.15.58:986][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube78_1_Auto7D2DF7DF7449257B53CB3969E7B2C027E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78_1_Auto7.uasset'
+[2020.02.01-18.15.58:987][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:000][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79_1.Cabinets_pCube79_1]
+[2020.02.01-18.15.59:000][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79_1]
+[2020.02.01-18.15.59:015][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube79_1_Auto75854C9BD4CE41A6B3F934B914DC2F5B9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79_1_Auto7.uasset'
+[2020.02.01-18.15.59:016][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:029][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80_1.Cabinets_pCube80_1]
+[2020.02.01-18.15.59:029][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80_1]
+[2020.02.01-18.15.59:046][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube80_1_Auto74C50ADCF4A09625D4226B8B81901E98A.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80_1_Auto7.uasset'
+[2020.02.01-18.15.59:047][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:060][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81_1.Cabinets_pCube81_1]
+[2020.02.01-18.15.59:060][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81_1]
+[2020.02.01-18.15.59:077][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube81_1_Auto79C1AB9734D171658F6FFA6803F6DD084.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81_1_Auto7.uasset'
+[2020.02.01-18.15.59:078][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:091][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82_1.Cabinets_pCube82_1]
+[2020.02.01-18.15.59:091][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82_1]
+[2020.02.01-18.15.59:106][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube82_1_Auto7C1F4DC4B4E8707F61ADADCBFC1FCB98E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82_1_Auto7.uasset'
+[2020.02.01-18.15.59:107][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:120][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83_1.Cabinets_pCube83_1]
+[2020.02.01-18.15.59:120][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83_1]
+[2020.02.01-18.15.59:138][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube83_1_Auto760C69BAB416ABDE5AEB75EAD478ED177.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83_1_Auto7.uasset'
+[2020.02.01-18.15.59:138][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:151][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84_1.Cabinets_pCube84_1]
+[2020.02.01-18.15.59:151][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84_1]
+[2020.02.01-18.15.59:189][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube84_1_Auto7965C1A8849B19027B77A44A316927D74.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84_1_Auto7.uasset'
+[2020.02.01-18.15.59:190][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:204][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85_1.Cabinets_pCube85_1]
+[2020.02.01-18.15.59:204][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85_1]
+[2020.02.01-18.15.59:235][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube85_1_Auto7EEE30DCC43215F9BF8EBF3B49E9719B4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85_1_Auto7.uasset'
+[2020.02.01-18.15.59:236][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:250][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22_1.Cabinets_Parafuso22_1]
+[2020.02.01-18.15.59:250][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22_1]
+[2020.02.01-18.15.59:274][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso22_1_Auto74D789535441606EF04F0FEA77E3AE819.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22_1_Auto7.uasset'
+[2020.02.01-18.15.59:275][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:288][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23_1.Cabinets_Parafuso23_1]
+[2020.02.01-18.15.59:288][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23_1]
+[2020.02.01-18.15.59:420][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso23_1_Auto7D630340B42D85C1DFADA0C91DF619DB9.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23_1_Auto7.uasset'
+[2020.02.01-18.15.59:421][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:435][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24_1.Cabinets_Parafuso24_1]
+[2020.02.01-18.15.59:435][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24_1]
+[2020.02.01-18.15.59:450][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso24_1_Auto7256E422B48EF0B18B3D2039C53CFAA9D.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24_1_Auto7.uasset'
+[2020.02.01-18.15.59:450][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:464][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25_1.Cabinets_Parafuso25_1]
+[2020.02.01-18.15.59:464][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25_1]
+[2020.02.01-18.15.59:479][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso25_1_Auto712990A024856562A9B9FD68876AAF74D.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25_1_Auto7.uasset'
+[2020.02.01-18.15.59:480][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:496][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86_1.Cabinets_pCube86_1]
+[2020.02.01-18.15.59:496][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86_1]
+[2020.02.01-18.15.59:632][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube86_1_Auto7C0AADF4C4C503271657F9AAA8E13C53D.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86_1_Auto7.uasset'
+[2020.02.01-18.15.59:633][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:647][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87_1.Cabinets_pCube87_1]
+[2020.02.01-18.15.59:647][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87_1]
+[2020.02.01-18.15.59:856][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube87_1_Auto7A4BC44694F2672E7FA7857A5C3905537.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87_1_Auto7.uasset'
+[2020.02.01-18.15.59:857][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:870][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88_1.Cabinets_pCube88_1]
+[2020.02.01-18.15.59:870][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88_1]
+[2020.02.01-18.15.59:886][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube88_1_Auto7B07DFCA64FC7F8C3D752B3A55C51BA0A.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88_1_Auto7.uasset'
+[2020.02.01-18.15.59:887][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:901][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89_1.Cabinets_pCube89_1]
+[2020.02.01-18.15.59:901][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89_1]
+[2020.02.01-18.15.59:918][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube89_1_Auto7C1687ABE464E2AB2CD38F48895AF9E3C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89_1_Auto7.uasset'
+[2020.02.01-18.15.59:919][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:933][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90_1.Cabinets_pCube90_1]
+[2020.02.01-18.15.59:933][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90_1]
+[2020.02.01-18.15.59:948][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube90_1_Auto7E06F94AE42823D4983875EAD5C2C7DAB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90_1_Auto7.uasset'
+[2020.02.01-18.15.59:949][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:963][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91_1.Cabinets_pCube91_1]
+[2020.02.01-18.15.59:964][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91_1]
+[2020.02.01-18.15.59:980][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube91_1_Auto7EA5814E849423129510E43934655052E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91_1_Auto7.uasset'
+[2020.02.01-18.15.59:981][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92_1] ([1] browsable assets)...
+[2020.02.01-18.15.59:995][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92_1.Cabinets_pCube92_1]
+[2020.02.01-18.15.59:995][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92_1]
+[2020.02.01-18.16.00:012][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube92_1_Auto73FAE149F4990BA09C601F6B0D39CB20C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92_1_Auto7.uasset'
+[2020.02.01-18.16.00:013][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:027][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93_1.Cabinets_pCube93_1]
+[2020.02.01-18.16.00:027][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93_1]
+[2020.02.01-18.16.00:137][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube93_1_Auto7A56B69004120B0052D43CEBAECA4273F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93_1_Auto7.uasset'
+[2020.02.01-18.16.00:137][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:152][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94_1.Cabinets_pCube94_1]
+[2020.02.01-18.16.00:152][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94_1]
+[2020.02.01-18.16.00:168][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube94_1_Auto7B5B192C04AD54E873E201FA026FC82DD.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94_1_Auto7.uasset'
+[2020.02.01-18.16.00:169][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:184][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95_1.Cabinets_pCube95_1]
+[2020.02.01-18.16.00:184][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95_1]
+[2020.02.01-18.16.00:211][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube95_1_Auto7D87A1C544772EF3412D174AD209070C4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95_1_Auto7.uasset'
+[2020.02.01-18.16.00:212][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:227][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96_1.Cabinets_pCube96_1]
+[2020.02.01-18.16.00:227][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96_1]
+[2020.02.01-18.16.00:247][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCube96_1_Auto7AD4AC0BC4932F4A4607FDEA0CB412731.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96_1_Auto7.uasset'
+[2020.02.01-18.16.00:248][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:263][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26_1.Cabinets_Parafuso26_1]
+[2020.02.01-18.16.00:263][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26_1]
+[2020.02.01-18.16.00:279][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso26_1_Auto72837AB58464AA7A48D931793CCD1E3AB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26_1_Auto7.uasset'
+[2020.02.01-18.16.00:280][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:296][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27_1.Cabinets_Parafuso27_1]
+[2020.02.01-18.16.00:296][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27_1]
+[2020.02.01-18.16.00:316][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso27_1_Auto72BFE615140C0552A1C397F8F7605FFCC.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27_1_Auto7.uasset'
+[2020.02.01-18.16.00:317][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:332][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28_1.Cabinets_Parafuso28_1]
+[2020.02.01-18.16.00:332][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28_1]
+[2020.02.01-18.16.00:349][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso28_1_Auto783A4668D4417C1446F79CBB2547B2548.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28_1_Auto7.uasset'
+[2020.02.01-18.16.00:350][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:365][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29_1.Cabinets_Parafuso29_1]
+[2020.02.01-18.16.00:365][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29_1]
+[2020.02.01-18.16.00:385][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_Parafuso29_1_Auto7E29F16414DCE01DD87397589BFB6F6DF.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29_1_Auto7.uasset'
+[2020.02.01-18.16.00:386][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:401][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21_1.Cabinets_pCylinder21_1]
+[2020.02.01-18.16.00:401][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21_1]
+[2020.02.01-18.16.00:425][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_pCylinder21_1_Auto7007C137D47B3CD876EADAAA30E59DFDB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21_1_Auto7.uasset'
+[2020.02.01-18.16.00:426][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:441][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12_1.Cabinets_PortaUmbralFerrolho12_1]
+[2020.02.01-18.16.00:441][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12_1]
+[2020.02.01-18.16.00:460][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_PortaUmbralFerrolho12_14D5B137E4DFB632CEFB0DCAD33DC13C4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12_1_Auto7.uasset'
+[2020.02.01-18.16.00:461][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:476][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11_1.Cabinets_PortaUmbralFerrolho11_1]
+[2020.02.01-18.16.00:476][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11_1]
+[2020.02.01-18.16.00:493][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_PortaUmbralFerrolho11_1F09D9AFB44E09CB4F173FFB090E216BB.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11_1_Auto7.uasset'
+[2020.02.01-18.16.00:494][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13_1] ([1] browsable assets)...
+[2020.02.01-18.16.00:509][451]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13_1.Cabinets_PortaUmbralFerrolho13_1]
+[2020.02.01-18.16.00:509][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13_1]
+[2020.02.01-18.16.00:528][451]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Cabinets_PortaUmbralFerrolho13_150C725D64BF8495903EACE98B82C10F0.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13_1_Auto7.uasset'
+[2020.02.01-18.16.00:529][451]LogFileHelpers: Auto-saving content packages took 4.397
+[2020.02.01-18.16.04:667][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.01-18.16.05:026][792]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap39C8CE0542F22C6B1B8B06B12DDF8EDF.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.01-18.16.05:126][792]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_BuiltData22C121E64B5C6DF1BE90FDB4A2327518.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.02.01-18.16.06:321][931]MapCheck: New page: Map Check
+[2020.02.01-18.16.06:335][931]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.01-18.16.06:336][931]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.01-18.16.06:540][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.01-18.16.06:594][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:601][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:608][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.01-18.16.06:621][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:633][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:644][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:651][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:659][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:667][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:673][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.06:679][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.16.10:431][931]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.01-18.16.10:431][931]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.01-18.16.10:431][931]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.01-18.16.10:431][931]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-18.16.10:431][931]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-18.16.10:431][931]TextureStreamingBuild: Display: Compiling optional shaders took 3.839 seconds.
+[2020.02.01-18.16.10:449][931]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2020.02.01-18.16.10:530][931]TextureStreamingBuild: Display: Build Texture Streaming took 0.080 seconds.
+[2020.02.01-18.16.10:554][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.01-18.16.10:554][931]LightingResults: New page: Lighting Build - Feb 1, 2020, 1:16:10 PM
+[2020.02.01-18.16.10:562][931]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.01-18.16.10:564][931]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.01-18.16.10:564][931]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.01-18.16.10:565][931]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.01-18.16.10:565][931]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16648
+[2020.02.01-18.16.15:076][931]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.01-18.16.15:076][931]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.01-18.16.15:076][931]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.01-18.16.15:076][931]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.01-18.16.15:076][931]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.01-18.16.15:200][931]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.01-18.16.15:200][931]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 1:16:15 PM
+[2020.02.01-18.16.15:201][931]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.721ms to complete.
+[2020.02.01-18.16.15:225][931]LogEditorBuildUtils: Build time 0:08
+[2020.02.01-18.16.15:430][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.01-18.16.26:881][951]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-18.16.26:881][951]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-18.16.26:896][952]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-18.16.26:896][952]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-18.16.27:008][962]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-18.16.27:008][962]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-18.16.27:057][966]Job is a success!
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport:      BrickData 110x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport:          1: 4.5% covering 1.6% of volume
+[2020.02.01-18.16.27:180][968]LogVolumetricLightmapImport:          2: 90.9% covering 0.5% of volume
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 32X32)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X64)
+[2020.02.01-18.16.27:366][968]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 256X256)
+[2020.02.01-18.16.27:388][968]Lightmass on DESKTOP-O7QDRHQ: 11.4 sec total, 427 ms importing, 1.11 sec setup, 3.72 sec photons, 6.19 sec processing, 0 ms extra exporting [392/392 mappings]. Threads: 30.8 sec total, 16.9 sec processing.
+[2020.02.01-18.16.27:394][968]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 18 meshes in 3 LightmapResourceClusters (6.0 Meshes per cluster).
+[2020.02.01-18.16.27:426][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.01-18.16.27:444][968]LogStaticLightingSystem: Illumination: 16.8 sec (95 ms encoding lightmaps, 21 ms encoding shadowmaps)
+[2020.02.01-18.16.27:444][968]LogStaticLightingSystem: Lightmap texture memory:  1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 6 textures
+[2020.02.01-18.16.27:444][968]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2020.02.01-18.16.28:089][968]DumpUnbuiltLightIteractions
+[2020.02.01-18.16.28:089][968]Lights with unbuilt interactions: 0
+[2020.02.01-18.16.28:089][968]
+[2020.02.01-18.16.28:089][968]Primitives with unbuilt interactions: 0
+[2020.02.01-18.16.28:164][969]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.01-18.16.28:164][969]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 1:16:28 PM
+[2020.02.01-18.16.28:169][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.323ms to complete.
+[2020.02.01-18.16.30:020][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.01-18.16.30:386][152]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap4BD973BC4F8B3A628EE6C7AB1E0C90F4.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.01-18.16.30:493][152]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_BuiltData3AFE6499437F13387B9224B880D1A8AA.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.02.01-18.16.33:304][484]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-18.16.33:308][484]LogSlate: Window 'Message Log' being destroyed
