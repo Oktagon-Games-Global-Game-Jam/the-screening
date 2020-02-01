@@ -6809,3 +6809,719 @@ Please see Output Log for details.
 [2020.02.01-17.43.32:922][500]Cmd: MAP CHECK NOTIFYRESULTS
 [2020.02.01-17.43.32:922][500]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:43:32 PM
 [2020.02.01-17.43.32:922][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.73ms to complete.
+[2020.02.01-17.47.48:715][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.47.54:084][819]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-17.47.54:088][819]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-17.48.03:508][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.48.03:574][893]MapCheck: New page: Map Check
+[2020.02.01-17.48.03:584][893]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.01-17.48.03:584][893]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.01-17.48.03:801][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.02.01-17.48.03:858][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:865][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:871][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.01-17.48.03:885][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:891][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:898][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:907][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:914][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:922][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:929][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:935][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.03:942][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.48.07:795][893]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.01-17.48.07:795][893]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.01-17.48.07:795][893]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.01-17.48.07:795][893]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-17.48.07:795][893]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-17.48.07:795][893]TextureStreamingBuild: Display: Compiling optional shaders took 3.940 seconds.
+[2020.02.01-17.48.07:816][893]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2020.02.01-17.48.07:896][893]TextureStreamingBuild: Display: Build Texture Streaming took 0.080 seconds.
+[2020.02.01-17.48.07:919][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.01-17.48.07:920][893]LightingResults: New page: Lighting Build - Feb 1, 2020, 12:48:07 PM
+[2020.02.01-17.48.07:931][893]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.01-17.48.07:934][893]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.01-17.48.07:935][893]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.01-17.48.07:935][893]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.01-17.48.07:935][893]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16648
+[2020.02.01-17.48.12:459][893]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.01-17.48.12:459][893]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.01-17.48.12:459][893]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.01-17.48.12:459][893]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.01-17.48.12:459][893]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.01-17.48.12:619][893]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.01-17.48.12:619][893]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:48:12 PM
+[2020.02.01-17.48.12:619][893]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.687ms to complete.
+[2020.02.01-17.48.12:642][893]LogEditorBuildUtils: Build time 0:09
+[2020.02.01-17.48.12:714][894]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MT_Wall_Metal_Instance, compiling. 
+[2020.02.01-17.48.12:722][894]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MT_Wall_Metal_Instance, compiling. 
+[2020.02.01-17.48.13:226][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.01-17.48.19:200][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane5)
+[2020.02.01-17.48.20:394][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane4)
+[2020.02.01-17.48.21:088][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane4)
+[2020.02.01-17.48.21:573][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane003)
+[2020.02.01-17.48.23:846][800]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-17.48.23:846][800]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-17.48.23:846][800]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-17.48.23:846][800]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-17.48.23:891][804]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-17.48.23:891][804]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-17.48.23:929][808]Job is a success!
+[2020.02.01-17.48.23:963][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.48.24:004][809]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.02.01-17.48.24:004][809]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.01-17.48.24:004][809]LogVolumetricLightmapImport:      BrickData 80x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.01-17.48.24:004][809]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.01-17.48.24:005][809]LogVolumetricLightmapImport:          0: 6.3% covering 100.0% of volume
+[2020.02.01-17.48.24:005][809]LogVolumetricLightmapImport:          1: 6.3% covering 1.6% of volume
+[2020.02.01-17.48.24:005][809]LogVolumetricLightmapImport:          2: 87.5% covering 0.3% of volume
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 32X32)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 512X64)
+[2020.02.01-17.48.24:261][809]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 256X256)
+[2020.02.01-17.48.24:287][809]Lightmass on DESKTOP-O7QDRHQ: 10.6 sec total, 425 ms importing, 1.04 sec setup, 3.90 sec photons, 5.20 sec processing, 0 ms extra exporting [379/379 mappings]. Threads: 25.9 sec total, 14.1 sec processing.
+[2020.02.01-17.48.24:290][809]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 18 meshes in 4 LightmapResourceClusters (4.5 Meshes per cluster).
+[2020.02.01-17.48.24:318][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.01-17.48.24:338][809]LogStaticLightingSystem: Illumination: 16.4 sec (110 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2020.02.01-17.48.24:338][809]LogStaticLightingSystem: Lightmap texture memory:  1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 6 textures
+[2020.02.01-17.48.24:338][809]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.2 MB streaming, 0.3 MB non-streaming), 3 textures
+[2020.02.01-17.48.24:476][809]DumpUnbuiltLightIteractions
+[2020.02.01-17.48.24:476][809]Lights with unbuilt interactions: 0
+[2020.02.01-17.48.24:476][809]
+[2020.02.01-17.48.24:476][809]Primitives with unbuilt interactions: 0
+[2020.02.01-17.48.24:597][810]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.01-17.48.24:597][810]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:48:24 PM
+[2020.02.01-17.48.24:598][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.764ms to complete.
+[2020.02.01-17.48.25:666][910]Cmd: SELECT NONE
+[2020.02.01-17.48.28:875][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.48.28:964][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.48.30:894][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.48.31:111][525]LogActorFactory: Actor Factory created Doom_3_Comp_Desk_Plane003
+[2020.02.01-17.48.31:398][557]LogActorFactory: Actor Factory created Doom_3_Comp_Desk_Plane003
+[2020.02.01-17.48.33:505][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane4)
+[2020.02.01-17.48.35:435][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.48.39:397][428]Cmd: DELETE
+[2020.02.01-17.48.39:406][428]Cmd: ACTOR DELETE
+[2020.02.01-17.48.39:415][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-17.48.39:415][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-17.48.39:416][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-17.48.39:475][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.01-17.48.39:475][428]LogEditorActor: Deleted 3 Actors (0.069 secs)
+[2020.02.01-17.48.40:919][599]Cmd: SELECT NONE
+[2020.02.01-17.48.46:071][206]Cmd: EDIT COPY
+[2020.02.01-17.48.46:258][228]Cmd: EDIT PASTE
+[2020.02.01-17.48.47:368][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.48.53:579][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.06:981][622]Cmd: SELECT NONE
+[2020.02.01-17.49.08:975][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.09:041][843]MapCheck: New page: Map Check
+[2020.02.01-17.49.09:052][843]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.01-17.49.09:052][843]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.01-17.49.09:250][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.01-17.49.09:303][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:310][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:316][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.01-17.49.09:330][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:342][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:353][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:360][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:368][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:376][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:383][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.09:390][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.49.13:156][843]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.01-17.49.13:157][843]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.01-17.49.13:157][843]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.01-17.49.13:157][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-17.49.13:157][843]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-17.49.13:157][843]TextureStreamingBuild: Display: Compiling optional shaders took 3.856 seconds.
+[2020.02.01-17.49.13:180][843]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2020.02.01-17.49.13:251][843]TextureStreamingBuild: Display: Build Texture Streaming took 0.070 seconds.
+[2020.02.01-17.49.13:274][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.01-17.49.13:274][843]LightingResults: New page: Lighting Build - Feb 1, 2020, 12:49:13 PM
+[2020.02.01-17.49.13:284][843]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.01-17.49.13:287][843]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.01-17.49.13:287][843]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.01-17.49.13:287][843]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.01-17.49.13:287][843]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16648
+[2020.02.01-17.49.17:805][843]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.01-17.49.17:805][843]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.01-17.49.17:805][843]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.01-17.49.17:805][843]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.01-17.49.17:805][843]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.01-17.49.17:957][843]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.01-17.49.17:957][843]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:49:17 PM
+[2020.02.01-17.49.17:957][843]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.01-17.49.17:957][843]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.739ms to complete.
+[2020.02.01-17.49.17:980][843]LogEditorBuildUtils: Build time 0:08
+[2020.02.01-17.49.18:002][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.49.18:193][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.01-17.49.23:628][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane6)
+[2020.02.01-17.49.25:436][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.49.28:366][654]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-17.49.28:366][654]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-17.49.28:384][655]Job is a success!
+[2020.02.01-17.49.28:414][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport:      BrickData 110x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport:          1: 4.5% covering 1.6% of volume
+[2020.02.01-17.49.28:455][657]LogVolumetricLightmapImport:          2: 90.9% covering 0.5% of volume
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 512X64)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 32X32)
+[2020.02.01-17.49.28:632][657]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 256X256)
+[2020.02.01-17.49.28:654][657]Lightmass on DESKTOP-O7QDRHQ: 9.96 sec total, 429 ms importing, 373 ms setup, 3.55 sec photons, 5.56 sec processing, 0 ms extra exporting [377/377 mappings]. Threads: 27.7 sec total, 6.76 sec processing.
+[2020.02.01-17.49.28:656][657]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 16 meshes in 3 LightmapResourceClusters (5.3 Meshes per cluster).
+[2020.02.01-17.49.28:688][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.01-17.49.28:710][657]LogStaticLightingSystem: Illumination: 15.4 sec (99 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2020.02.01-17.49.28:710][657]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.2 MB streaming, 0.7 MB non-streaming), 6 textures
+[2020.02.01-17.49.28:710][657]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.2 MB streaming, 0.3 MB non-streaming), 3 textures
+[2020.02.01-17.49.28:816][657]DumpUnbuiltLightIteractions
+[2020.02.01-17.49.28:816][657]Lights with unbuilt interactions: 0
+[2020.02.01-17.49.28:816][657]
+[2020.02.01-17.49.28:816][657]Primitives with unbuilt interactions: 0
+[2020.02.01-17.49.28:830][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.49.28:915][658]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.01-17.49.28:915][658]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:49:28 PM
+[2020.02.01-17.49.28:920][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.867ms to complete.
+[2020.02.01-17.49.30:680][824]Cmd: SELECT NONE
+[2020.02.01-17.49.31:024][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-17.49.31:606][897]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2020.02.01-17.49.32:261][965]Cmd: SELECT NONE
+[2020.02.01-17.49.40:586][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane6)
+[2020.02.01-17.49.46:987][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.10:187][330]Cmd: TRANSACTION UNDO
+[2020.02.01-17.50.10:187][330]LogEditorTransaction: Undo Move Actors
+[2020.02.01-17.50.10:603][368]Cmd: TRANSACTION UNDO
+[2020.02.01-17.50.10:603][368]LogEditorTransaction: Undo Create Actors
+[2020.02.01-17.50.14:862][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.16:622][ 46]Cmd: TRANSACTION UNDO
+[2020.02.01-17.50.16:622][ 46]LogEditorTransaction: Undo Create Actors
+[2020.02.01-17.50.17:268][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.18:223][193]Cmd: TRANSACTION UNDO
+[2020.02.01-17.50.18:223][193]LogEditorTransaction: Undo Create Actors
+[2020.02.01-17.50.19:694][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.28:263][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.32:073][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.42:843][ 86]Cmd: DELETE
+[2020.02.01-17.50.42:843][ 86]Cmd: ACTOR DELETE
+[2020.02.01-17.50.42:850][ 86]LogEditorActor: Deleted Actor: SpotLight
+[2020.02.01-17.50.42:876][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.01-17.50.42:876][ 86]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.01-17.50.44:028][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.50.55:650][585]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.01-17.51.03:104][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.51.40:038][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.51.43:566][199]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.02.01-17.51.45:579][439]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2020.02.01-17.51.46:031][493]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.02.01-17.51.48:553][789]Cmd: POLY TEXMULT UU=-1 VV=1
+[2020.02.01-17.51.50:179][984]Cmd: POLY TEXMULT UU=-1 VV=1
+[2020.02.01-17.52.00:168][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.52.09:090][220]Cmd: TRANSACTION UNDO
+[2020.02.01-17.52.09:090][220]LogEditorTransaction: Undo Rotate Actors
+[2020.02.01-17.52.09:391][253]Cmd: TRANSACTION UNDO
+[2020.02.01-17.52.09:391][253]LogEditorTransaction: Undo Set Rotation
+[2020.02.01-17.52.25:233][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.52.25:317][147]MapCheck: New page: Map Check
+[2020.02.01-17.52.25:333][147]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.01-17.52.25:479][147]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.01-17.52.25:719][147]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.02.01-17.52.25:778][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:784][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:791][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.01-17.52.25:804][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:816][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:827][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:833][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:842][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:850][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:856][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.25:862][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-17.52.29:582][147]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.01-17.52.29:582][147]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.01-17.52.29:582][147]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.01-17.52.29:582][147]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-17.52.29:582][147]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-17.52.29:582][147]TextureStreamingBuild: Display: Compiling optional shaders took 3.807 seconds.
+[2020.02.01-17.52.29:602][147]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2020.02.01-17.52.29:665][147]TextureStreamingBuild: Display: Build Texture Streaming took 0.062 seconds.
+[2020.02.01-17.52.29:689][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.01-17.52.29:689][147]LightingResults: New page: Lighting Build - Feb 1, 2020, 12:52:29 PM
+[2020.02.01-17.52.29:700][147]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.01-17.52.29:702][147]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.01-17.52.29:702][147]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.01-17.52.29:703][147]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.01-17.52.29:703][147]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16648
+[2020.02.01-17.52.34:227][147]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.01-17.52.34:227][147]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.01-17.52.34:227][147]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.01-17.52.34:227][147]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.01-17.52.34:227][147]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.01-17.52.34:391][147]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.01-17.52.34:391][147]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:52:34 PM
+[2020.02.01-17.52.34:391][147]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.661ms to complete.
+[2020.02.01-17.52.34:416][147]LogEditorBuildUtils: Build time 0:09
+[2020.02.01-17.52.34:656][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.01-17.52.44:841][ 50]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-17.52.44:841][ 50]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-17.52.44:860][ 52]Job is a success!
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport:          1: 4.3% covering 1.6% of volume
+[2020.02.01-17.52.44:921][ 53]LogVolumetricLightmapImport:          2: 91.3% covering 0.5% of volume
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 512X64)
+[2020.02.01-17.52.45:134][ 53]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 32X32)
+[2020.02.01-17.52.45:135][ 53]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 256X256)
+[2020.02.01-17.52.45:152][ 53]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 16 meshes in 3 LightmapResourceClusters (5.3 Meshes per cluster).
+[2020.02.01-17.52.45:178][ 53]Lightmass on DESKTOP-O7QDRHQ: 10.0 sec total, 420 ms importing, 372 ms setup, 3.57 sec photons, 5.66 sec processing, 0 ms extra exporting [390/390 mappings]. Threads: 28.2 sec total, 6.59 sec processing.
+[2020.02.01-17.52.45:181][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.01-17.52.45:203][ 53]LogStaticLightingSystem: Illumination: 15.4 sec (108 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2020.02.01-17.52.45:203][ 53]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.2 MB streaming, 0.7 MB non-streaming), 6 textures
+[2020.02.01-17.52.45:203][ 53]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.2 MB streaming, 0.3 MB non-streaming), 3 textures
+[2020.02.01-17.52.45:234][ 53]DumpUnbuiltLightIteractions
+[2020.02.01-17.52.45:234][ 53]Lights with unbuilt interactions: 0
+[2020.02.01-17.52.45:234][ 53]
+[2020.02.01-17.52.45:234][ 53]Primitives with unbuilt interactions: 0
+[2020.02.01-17.52.45:332][ 54]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.01-17.52.45:333][ 54]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 12:52:45 PM
+[2020.02.01-17.52.45:339][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.701ms to complete.
+[2020.02.01-17.52.55:106][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane6)
+[2020.02.01-17.53.05:166][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.53.33:577][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.53.39:168][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.53.52:277][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane6)
+[2020.02.01-17.53.56:951][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.54.05:194][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.54.26:796][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.54.28:553][870]Cmd: SELECT NONE
+[2020.02.01-17.54.36:268][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.54.36:328][635]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-17.54.36:334][635]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-17.54.38:332][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doom_3_Comp_Desk_Plane7)
+[2020.02.01-17.54.39:552][952]Cmd: SELECT NONE
+[2020.02.01-17.54.39:725][968]Cmd: SELECT NONE
+[2020.02.01-17.55.02:025][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.55.16:681][792]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.02.01-17.55.17:114][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.55.17:162][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.01-17.55.17:536][822]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_Auto5C06654FD4B99573F71993A847E356D4F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2020.02.01-17.55.17:539][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.402
+[2020.02.01-17.55.17:539][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.402
+[2020.02.01-17.55.17:540][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Assets/OverallTextures/MT_Wall_Metal] ([1] browsable assets)...
+[2020.02.01-17.55.17:540][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/OverallTextures/MT_Wall_Metal]
+[2020.02.01-17.55.17:556][822]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MT_Wall_Metal_Auto53B9C5FAB4B3A18E837079E9AD14F71E0.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/OverallTextures/MT_Wall_Metal_Auto5.uasset'
+[2020.02.01-17.55.17:557][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Assets/OverallTextures/MT_Wall_Metal_Instance] ([1] browsable assets)...
+[2020.02.01-17.55.17:557][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Assets/OverallTextures/MT_Wall_Metal_Instance]
+[2020.02.01-17.55.17:573][822]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/MT_Wall_Metal_Instance_Auto5109F12F7449BF1ABB647B383F8CFCE9E.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Assets/OverallTextures/MT_Wall_Metal_Instance_Auto5.uasset'
+[2020.02.01-17.55.17:574][822]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.02.01-17.55.22:137][269]Cmd: SELECT NONE
+[2020.02.01-17.59.11:498][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.59.12:555][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-17.59.12:720][991]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.01-17.59.14:105][991]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.01-17.59.24:560][914]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.01-17.59.24:564][914]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.01-17.59.25:151][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-18.03.25:430][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.03.25:613][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.03.25:632][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.03.25:632][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.03.25:633][170]PIE: New page: PIE session: TopDownExampleMap (Feb 1, 2020, 1:03:25 PM)
+[2020.02.01-18.03.25:642][170]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.01-18.03.25:697][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054714s)
+[2020.02.01-18.03.25:699][170]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.01-18.03.25:699][170]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2020.02.01-18.03.25:699][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.057020s)
+[2020.02.01-18.03.26:291][170]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2020.02.01-18.03.26:334][170]LogInit: XAudio2 using 'DFX Speakers (DFX Audio Enhancer)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.01-18.03.26:344][170]LogInit: FAudioDevice initialized.
+[2020.02.01-18.03.26:388][170]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.01-18.03.26:392][170]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.01-15.03.26
+[2020.02.01-18.03.26:394][170]LogWorld: Bringing up level for play took: 0.004994
+[2020.02.01-18.03.26:414][170]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.957
+[2020.02.01-18.03.26:415][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.03.42:066][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.03.42:122][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.03.42:122][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.03.42:150][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.03.42:151][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.03.42:219][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.03.42:374][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2020.02.01-18.03.42:399][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.02.01-18.03.49:133][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.03.49:208][786]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-18.03.49:223][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.03.49:223][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-18.03.49:223][786]PIE: New page: PIE session: TopDownExampleMap (Feb 1, 2020, 1:03:49 PM)
+[2020.02.01-18.03.49:228][786]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.01-18.03.49:265][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037361s)
+[2020.02.01-18.03.49:265][786]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.01-18.03.49:265][786]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2020.02.01-18.03.49:266][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.038030s)
+[2020.02.01-18.03.49:290][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.01-18.03.49:330][786]LogInit: XAudio2 using 'DFX Speakers (DFX Audio Enhancer)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.02.01-18.03.49:337][786]LogInit: FAudioDevice initialized.
+[2020.02.01-18.03.49:365][786]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.01-18.03.49:368][786]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.01-15.03.49
+[2020.02.01-18.03.49:368][786]LogWorld: Bringing up level for play took: 0.002801
+[2020.02.01-18.03.49:381][786]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.075
+[2020.02.01-18.03.49:382][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.04.05:212][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-18.04.05:275][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.04.05:275][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.04.05:310][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-18.04.05:310][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.01-18.04.05:345][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-18.04.05:350][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.01-18.04.05:394][691]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.02.01-18.05.50:661][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.02.01-18.05.51:053][544]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_Auto626A6498247611C2E6CEC6AB4C4814C6C.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap'
+[2020.02.01-18.05.51:057][544]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.428
+[2020.02.01-18.05.51:057][544]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.428
+[2020.02.01-18.12.52:213][897]AssetReimport: New page: Outstanding source content changes 1:12:52 PM
+[2020.02.01-18.12.52:216][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Assets/Cabniets/Textures/internal_ground_ao_texture.jpeg)
+[2020.02.01-18.12.52:342][898]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Assets/Cabniets/Cabinets.fbx)
+[2020.02.01-18.12.52:356][898]LogFbx: Loading FBX Scene from C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Assets/Cabniets/Cabinets.fbx
+[2020.02.01-18.12.52:460][898]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.01-18.12.54:148][898]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.01-18.12.54:485][898]LogStaticMesh: Building static mesh Cabinets_Armario_024...
+[2020.02.01-18.12.54:534][898]LogStaticMesh: Built static mesh [0.05s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Armario_024.Cabinets_Armario_024
+[2020.02.01-18.12.54:593][898]LogStaticMesh: Building static mesh Cabinets_pCube98...
+[2020.02.01-18.12.54:595][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube98.Cabinets_pCube98
+[2020.02.01-18.12.54:610][898]LogStaticMesh: Building static mesh Cabinets_pCube99...
+[2020.02.01-18.12.54:613][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube99.Cabinets_pCube99
+[2020.02.01-18.12.54:629][898]LogStaticMesh: Building static mesh Cabinets_pCube100...
+[2020.02.01-18.12.54:633][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube100.Cabinets_pCube100
+[2020.02.01-18.12.54:648][898]LogStaticMesh: Building static mesh Cabinets_pCube101...
+[2020.02.01-18.12.54:651][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube101.Cabinets_pCube101
+[2020.02.01-18.12.54:664][898]LogStaticMesh: Building static mesh Cabinets_pCube102...
+[2020.02.01-18.12.54:667][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube102.Cabinets_pCube102
+[2020.02.01-18.12.54:682][898]LogStaticMesh: Building static mesh Cabinets_pCube103...
+[2020.02.01-18.12.54:684][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube103.Cabinets_pCube103
+[2020.02.01-18.12.54:700][898]LogStaticMesh: Building static mesh Cabinets_pCube104...
+[2020.02.01-18.12.54:704][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube104.Cabinets_pCube104
+[2020.02.01-18.12.54:726][898]LogStaticMesh: Building static mesh Cabinets_pCube105...
+[2020.02.01-18.12.54:730][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube105.Cabinets_pCube105
+[2020.02.01-18.12.54:747][898]LogStaticMesh: Building static mesh Cabinets_pCube106...
+[2020.02.01-18.12.54:751][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube106.Cabinets_pCube106
+[2020.02.01-18.12.54:768][898]LogStaticMesh: Building static mesh Cabinets_pCube107...
+[2020.02.01-18.12.54:771][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube107.Cabinets_pCube107
+[2020.02.01-18.12.54:825][898]LogStaticMesh: Building static mesh Cabinets_pCube108...
+[2020.02.01-18.12.54:826][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube108.Cabinets_pCube108
+[2020.02.01-18.12.54:839][898]LogStaticMesh: Building static mesh Cabinets_pCube109...
+[2020.02.01-18.12.54:840][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube109.Cabinets_pCube109
+[2020.02.01-18.12.54:864][898]LogStaticMesh: Building static mesh Cabinets_pCube110...
+[2020.02.01-18.12.54:865][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube110.Cabinets_pCube110
+[2020.02.01-18.12.54:880][898]LogStaticMesh: Building static mesh Cabinets_pCube111...
+[2020.02.01-18.12.54:881][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube111.Cabinets_pCube111
+[2020.02.01-18.12.54:940][898]LogStaticMesh: Building static mesh Cabinets_pCube112...
+[2020.02.01-18.12.54:946][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube112.Cabinets_pCube112
+[2020.02.01-18.12.54:987][898]LogStaticMesh: Building static mesh Cabinets_pCube113...
+[2020.02.01-18.12.54:994][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube113.Cabinets_pCube113
+[2020.02.01-18.12.55:034][898]LogStaticMesh: Building static mesh Cabinets_pCube114...
+[2020.02.01-18.12.55:041][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube114.Cabinets_pCube114
+[2020.02.01-18.12.55:089][898]LogStaticMesh: Building static mesh Cabinets_pCube115...
+[2020.02.01-18.12.55:095][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube115.Cabinets_pCube115
+[2020.02.01-18.12.55:164][898]LogStaticMesh: Building static mesh Cabinets_pCube116...
+[2020.02.01-18.12.55:165][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube116.Cabinets_pCube116
+[2020.02.01-18.12.55:176][898]LogStaticMesh: Building static mesh Cabinets_pCube117...
+[2020.02.01-18.12.55:177][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube117.Cabinets_pCube117
+[2020.02.01-18.12.55:188][898]LogStaticMesh: Building static mesh Cabinets_pCube118...
+[2020.02.01-18.12.55:189][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube118.Cabinets_pCube118
+[2020.02.01-18.12.55:198][898]LogStaticMesh: Building static mesh Cabinets_pCube119...
+[2020.02.01-18.12.55:198][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube119.Cabinets_pCube119
+[2020.02.01-18.12.55:227][898]LogStaticMesh: Building static mesh Cabinets_pCube97...
+[2020.02.01-18.12.55:232][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube97.Cabinets_pCube97
+[2020.02.01-18.12.55:303][898]LogStaticMesh: Building static mesh Cabinets_pCube68...
+[2020.02.01-18.12.55:309][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68.Cabinets_pCube68
+[2020.02.01-18.12.55:328][898]LogStaticMesh: Building static mesh Cabinets_pCube69...
+[2020.02.01-18.12.55:329][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69.Cabinets_pCube69
+[2020.02.01-18.12.55:374][898]LogStaticMesh: Building static mesh Cabinets_pCube70...
+[2020.02.01-18.12.55:376][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70.Cabinets_pCube70
+[2020.02.01-18.12.55:391][898]LogStaticMesh: Building static mesh Cabinets_pCube71...
+[2020.02.01-18.12.55:393][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71.Cabinets_pCube71
+[2020.02.01-18.12.55:409][898]LogStaticMesh: Building static mesh Cabinets_pCube72...
+[2020.02.01-18.12.55:410][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72.Cabinets_pCube72
+[2020.02.01-18.12.55:425][898]LogStaticMesh: Building static mesh Cabinets_pCube73...
+[2020.02.01-18.12.55:426][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73.Cabinets_pCube73
+[2020.02.01-18.12.55:444][898]LogStaticMesh: Building static mesh Cabinets_pCylinder20...
+[2020.02.01-18.12.55:448][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20.Cabinets_pCylinder20
+[2020.02.01-18.12.55:525][898]LogStaticMesh: Building static mesh Cabinets_pCube74...
+[2020.02.01-18.12.55:539][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74.Cabinets_pCube74
+[2020.02.01-18.12.55:625][898]LogStaticMesh: Building static mesh Cabinets_pCube75...
+[2020.02.01-18.12.55:630][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75.Cabinets_pCube75
+[2020.02.01-18.12.55:642][898]LogStaticMesh: Building static mesh Cabinets_pCube76...
+[2020.02.01-18.12.55:643][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76.Cabinets_pCube76
+[2020.02.01-18.12.55:658][898]LogStaticMesh: Building static mesh Cabinets_pCube77...
+[2020.02.01-18.12.55:659][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77.Cabinets_pCube77
+[2020.02.01-18.12.55:673][898]LogStaticMesh: Building static mesh Cabinets_pCube78...
+[2020.02.01-18.12.55:674][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78.Cabinets_pCube78
+[2020.02.01-18.12.55:691][898]LogStaticMesh: Building static mesh Cabinets_pCube79...
+[2020.02.01-18.12.55:693][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79.Cabinets_pCube79
+[2020.02.01-18.12.55:711][898]LogStaticMesh: Building static mesh Cabinets_pCube80...
+[2020.02.01-18.12.55:712][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80.Cabinets_pCube80
+[2020.02.01-18.12.55:726][898]LogStaticMesh: Building static mesh Cabinets_pCube81...
+[2020.02.01-18.12.55:727][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81.Cabinets_pCube81
+[2020.02.01-18.12.55:742][898]LogStaticMesh: Building static mesh Cabinets_pCube82...
+[2020.02.01-18.12.55:743][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82.Cabinets_pCube82
+[2020.02.01-18.12.55:758][898]LogStaticMesh: Building static mesh Cabinets_pCube83...
+[2020.02.01-18.12.55:759][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83.Cabinets_pCube83
+[2020.02.01-18.12.55:774][898]LogStaticMesh: Building static mesh Cabinets_pCube84...
+[2020.02.01-18.12.55:775][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84.Cabinets_pCube84
+[2020.02.01-18.12.55:791][898]LogStaticMesh: Building static mesh Cabinets_pCube85...
+[2020.02.01-18.12.55:792][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85.Cabinets_pCube85
+[2020.02.01-18.12.55:811][898]LogStaticMesh: Building static mesh Cabinets_Parafuso22...
+[2020.02.01-18.12.55:815][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22.Cabinets_Parafuso22
+[2020.02.01-18.12.55:832][898]LogStaticMesh: Building static mesh Cabinets_Parafuso23...
+[2020.02.01-18.12.55:836][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23.Cabinets_Parafuso23
+[2020.02.01-18.12.55:853][898]LogStaticMesh: Building static mesh Cabinets_Parafuso24...
+[2020.02.01-18.12.55:857][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24.Cabinets_Parafuso24
+[2020.02.01-18.12.55:879][898]LogStaticMesh: Building static mesh Cabinets_Parafuso25...
+[2020.02.01-18.12.55:890][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25.Cabinets_Parafuso25
+[2020.02.01-18.12.55:917][898]LogStaticMesh: Building static mesh Cabinets_pCube86...
+[2020.02.01-18.12.55:921][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86.Cabinets_pCube86
+[2020.02.01-18.12.55:940][898]LogStaticMesh: Building static mesh Cabinets_pCube87...
+[2020.02.01-18.12.55:941][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87.Cabinets_pCube87
+[2020.02.01-18.12.55:957][898]LogStaticMesh: Building static mesh Cabinets_pCube88...
+[2020.02.01-18.12.55:958][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88.Cabinets_pCube88
+[2020.02.01-18.12.55:976][898]LogStaticMesh: Building static mesh Cabinets_pCube89...
+[2020.02.01-18.12.55:977][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89.Cabinets_pCube89
+[2020.02.01-18.12.55:991][898]LogStaticMesh: Building static mesh Cabinets_pCube90...
+[2020.02.01-18.12.55:992][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90.Cabinets_pCube90
+[2020.02.01-18.12.56:012][898]LogStaticMesh: Building static mesh Cabinets_pCube91...
+[2020.02.01-18.12.56:013][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91.Cabinets_pCube91
+[2020.02.01-18.12.56:026][898]LogStaticMesh: Building static mesh Cabinets_pCube92...
+[2020.02.01-18.12.56:029][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92.Cabinets_pCube92
+[2020.02.01-18.12.56:043][898]LogStaticMesh: Building static mesh Cabinets_pCube93...
+[2020.02.01-18.12.56:045][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93.Cabinets_pCube93
+[2020.02.01-18.12.56:061][898]LogStaticMesh: Building static mesh Cabinets_pCube94...
+[2020.02.01-18.12.56:062][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94.Cabinets_pCube94
+[2020.02.01-18.12.56:078][898]LogStaticMesh: Building static mesh Cabinets_pCube95...
+[2020.02.01-18.12.56:080][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95.Cabinets_pCube95
+[2020.02.01-18.12.56:095][898]LogStaticMesh: Building static mesh Cabinets_pCube96...
+[2020.02.01-18.12.56:096][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96.Cabinets_pCube96
+[2020.02.01-18.12.56:120][898]LogStaticMesh: Building static mesh Cabinets_Parafuso26...
+[2020.02.01-18.12.56:125][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26.Cabinets_Parafuso26
+[2020.02.01-18.12.56:143][898]LogStaticMesh: Building static mesh Cabinets_Parafuso27...
+[2020.02.01-18.12.56:148][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27.Cabinets_Parafuso27
+[2020.02.01-18.12.56:166][898]LogStaticMesh: Building static mesh Cabinets_Parafuso28...
+[2020.02.01-18.12.56:170][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28.Cabinets_Parafuso28
+[2020.02.01-18.12.56:192][898]LogStaticMesh: Building static mesh Cabinets_Parafuso29...
+[2020.02.01-18.12.56:201][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29.Cabinets_Parafuso29
+[2020.02.01-18.12.56:218][898]LogStaticMesh: Building static mesh Cabinets_pCylinder21...
+[2020.02.01-18.12.56:221][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21.Cabinets_pCylinder21
+[2020.02.01-18.12.56:253][898]LogStaticMesh: Building static mesh Cabinets_PortaUmbralFerrolho12...
+[2020.02.01-18.12.56:259][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12.Cabinets_PortaUmbralFerrolho12
+[2020.02.01-18.12.56:294][898]LogStaticMesh: Building static mesh Cabinets_PortaUmbralFerrolho11...
+[2020.02.01-18.12.56:301][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11.Cabinets_PortaUmbralFerrolho11
+[2020.02.01-18.12.56:336][898]LogStaticMesh: Building static mesh Cabinets_PortaUmbralFerrolho13...
+[2020.02.01-18.12.56:342][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13.Cabinets_PortaUmbralFerrolho13
+[2020.02.01-18.12.56:361][898]LogStaticMesh: Building static mesh Cabinets_pCube68_1...
+[2020.02.01-18.12.56:365][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube68_1.Cabinets_pCube68_1
+[2020.02.01-18.12.56:382][898]LogStaticMesh: Building static mesh Cabinets_pCube69_1...
+[2020.02.01-18.12.56:384][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube69_1.Cabinets_pCube69_1
+[2020.02.01-18.12.56:396][898]LogStaticMesh: Building static mesh Cabinets_pCube70_1...
+[2020.02.01-18.12.56:397][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube70_1.Cabinets_pCube70_1
+[2020.02.01-18.12.56:410][898]LogStaticMesh: Building static mesh Cabinets_pCube71_1...
+[2020.02.01-18.12.56:411][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube71_1.Cabinets_pCube71_1
+[2020.02.01-18.12.56:421][898]LogStaticMesh: Building static mesh Cabinets_pCube72_1...
+[2020.02.01-18.12.56:422][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube72_1.Cabinets_pCube72_1
+[2020.02.01-18.12.56:435][898]LogStaticMesh: Building static mesh Cabinets_pCube73_1...
+[2020.02.01-18.12.56:436][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube73_1.Cabinets_pCube73_1
+[2020.02.01-18.12.56:453][898]LogStaticMesh: Building static mesh Cabinets_pCylinder20_1...
+[2020.02.01-18.12.56:456][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder20_1.Cabinets_pCylinder20_1
+[2020.02.01-18.12.56:536][898]LogStaticMesh: Building static mesh Cabinets_pCube74_1...
+[2020.02.01-18.12.56:550][898]LogStaticMesh: Built static mesh [0.02s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube74_1.Cabinets_pCube74_1
+[2020.02.01-18.12.56:575][898]LogStaticMesh: Building static mesh Cabinets_pCube75_1...
+[2020.02.01-18.12.56:579][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube75_1.Cabinets_pCube75_1
+[2020.02.01-18.12.56:594][898]LogStaticMesh: Building static mesh Cabinets_pCube76_1...
+[2020.02.01-18.12.56:595][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube76_1.Cabinets_pCube76_1
+[2020.02.01-18.12.56:608][898]LogStaticMesh: Building static mesh Cabinets_pCube77_1...
+[2020.02.01-18.12.56:608][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube77_1.Cabinets_pCube77_1
+[2020.02.01-18.12.56:622][898]LogStaticMesh: Building static mesh Cabinets_pCube78_1...
+[2020.02.01-18.12.56:623][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube78_1.Cabinets_pCube78_1
+[2020.02.01-18.12.56:639][898]LogStaticMesh: Building static mesh Cabinets_pCube79_1...
+[2020.02.01-18.12.56:640][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube79_1.Cabinets_pCube79_1
+[2020.02.01-18.12.56:654][898]LogStaticMesh: Building static mesh Cabinets_pCube80_1...
+[2020.02.01-18.12.56:655][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube80_1.Cabinets_pCube80_1
+[2020.02.01-18.12.56:670][898]LogStaticMesh: Building static mesh Cabinets_pCube81_1...
+[2020.02.01-18.12.56:672][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube81_1.Cabinets_pCube81_1
+[2020.02.01-18.12.56:686][898]LogStaticMesh: Building static mesh Cabinets_pCube82_1...
+[2020.02.01-18.12.56:688][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube82_1.Cabinets_pCube82_1
+[2020.02.01-18.12.56:701][898]LogStaticMesh: Building static mesh Cabinets_pCube83_1...
+[2020.02.01-18.12.56:702][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube83_1.Cabinets_pCube83_1
+[2020.02.01-18.12.56:715][898]LogStaticMesh: Building static mesh Cabinets_pCube84_1...
+[2020.02.01-18.12.56:716][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube84_1.Cabinets_pCube84_1
+[2020.02.01-18.12.56:729][898]LogStaticMesh: Building static mesh Cabinets_pCube85_1...
+[2020.02.01-18.12.56:730][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube85_1.Cabinets_pCube85_1
+[2020.02.01-18.12.56:746][898]LogStaticMesh: Building static mesh Cabinets_Parafuso22_1...
+[2020.02.01-18.12.56:750][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso22_1.Cabinets_Parafuso22_1
+[2020.02.01-18.12.56:773][898]LogStaticMesh: Building static mesh Cabinets_Parafuso23_1...
+[2020.02.01-18.12.56:779][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso23_1.Cabinets_Parafuso23_1
+[2020.02.01-18.12.56:800][898]LogStaticMesh: Building static mesh Cabinets_Parafuso24_1...
+[2020.02.01-18.12.56:805][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso24_1.Cabinets_Parafuso24_1
+[2020.02.01-18.12.56:821][898]LogStaticMesh: Building static mesh Cabinets_Parafuso25_1...
+[2020.02.01-18.12.56:826][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso25_1.Cabinets_Parafuso25_1
+[2020.02.01-18.12.56:850][898]LogStaticMesh: Building static mesh Cabinets_pCube86_1...
+[2020.02.01-18.12.56:854][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube86_1.Cabinets_pCube86_1
+[2020.02.01-18.12.56:868][898]LogStaticMesh: Building static mesh Cabinets_pCube87_1...
+[2020.02.01-18.12.56:869][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube87_1.Cabinets_pCube87_1
+[2020.02.01-18.12.56:885][898]LogStaticMesh: Building static mesh Cabinets_pCube88_1...
+[2020.02.01-18.12.56:887][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube88_1.Cabinets_pCube88_1
+[2020.02.01-18.12.56:906][898]LogStaticMesh: Building static mesh Cabinets_pCube89_1...
+[2020.02.01-18.12.56:906][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube89_1.Cabinets_pCube89_1
+[2020.02.01-18.12.56:931][898]LogStaticMesh: Building static mesh Cabinets_pCube90_1...
+[2020.02.01-18.12.56:932][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube90_1.Cabinets_pCube90_1
+[2020.02.01-18.12.56:952][898]LogStaticMesh: Building static mesh Cabinets_pCube91_1...
+[2020.02.01-18.12.56:953][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube91_1.Cabinets_pCube91_1
+[2020.02.01-18.12.56:967][898]LogStaticMesh: Building static mesh Cabinets_pCube92_1...
+[2020.02.01-18.12.56:968][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube92_1.Cabinets_pCube92_1
+[2020.02.01-18.12.56:984][898]LogStaticMesh: Building static mesh Cabinets_pCube93_1...
+[2020.02.01-18.12.56:985][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube93_1.Cabinets_pCube93_1
+[2020.02.01-18.12.57:003][898]LogStaticMesh: Building static mesh Cabinets_pCube94_1...
+[2020.02.01-18.12.57:004][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube94_1.Cabinets_pCube94_1
+[2020.02.01-18.12.57:020][898]LogStaticMesh: Building static mesh Cabinets_pCube95_1...
+[2020.02.01-18.12.57:021][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube95_1.Cabinets_pCube95_1
+[2020.02.01-18.12.57:038][898]LogStaticMesh: Building static mesh Cabinets_pCube96_1...
+[2020.02.01-18.12.57:039][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCube96_1.Cabinets_pCube96_1
+[2020.02.01-18.12.57:054][898]LogStaticMesh: Building static mesh Cabinets_Parafuso26_1...
+[2020.02.01-18.12.57:059][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso26_1.Cabinets_Parafuso26_1
+[2020.02.01-18.12.57:076][898]LogStaticMesh: Building static mesh Cabinets_Parafuso27_1...
+[2020.02.01-18.12.57:081][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso27_1.Cabinets_Parafuso27_1
+[2020.02.01-18.12.57:097][898]LogStaticMesh: Building static mesh Cabinets_Parafuso28_1...
+[2020.02.01-18.12.57:102][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso28_1.Cabinets_Parafuso28_1
+[2020.02.01-18.12.57:115][898]LogStaticMesh: Building static mesh Cabinets_Parafuso29_1...
+[2020.02.01-18.12.57:120][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_Parafuso29_1.Cabinets_Parafuso29_1
+[2020.02.01-18.12.57:137][898]LogStaticMesh: Building static mesh Cabinets_pCylinder21_1...
+[2020.02.01-18.12.57:141][898]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Assets/Cabniets/Cabinets_pCylinder21_1.Cabinets_pCylinder21_1
+[2020.02.01-18.12.57:176][898]LogStaticMesh: Building static mesh Cabinets_PortaUmbralFerrolho12_1...
+[2020.02.01-18.12.57:181][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho12_1.Cabinets_PortaUmbralFerrolho12_1
+[2020.02.01-18.12.57:210][898]LogStaticMesh: Building static mesh Cabinets_PortaUmbralFerrolho11_1...
+[2020.02.01-18.12.57:216][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho11_1.Cabinets_PortaUmbralFerrolho11_1
+[2020.02.01-18.12.57:246][898]LogStaticMesh: Building static mesh Cabinets_PortaUmbralFerrolho13_1...
+[2020.02.01-18.12.57:253][898]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Assets/Cabniets/Cabinets_PortaUmbralFerrolho13_1.Cabinets_PortaUmbralFerrolho13_1
+[2020.02.01-18.12.57:914][899]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/internal_ground_ao_textureBE8AC15543521642F81EC58332F37B2F.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Assets/Cabniets/Textures/internal_ground_ao_texture.uasset'
+[2020.02.01-18.12.57:932][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Assets/Cabniets/Cabinets" FILE="C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Assets/Cabniets/Cabinets.uasset" SILENT=true
+[2020.02.01-18.12.57:940][899]LogSavePackage: Moving 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Saved/CabinetsD216871C4C284DD821CB909459116EA3.tmp' to 'C:/oktagonprojects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Assets/Cabniets/Cabinets.uasset'
+[2020.02.01-18.13.00:946][101]AssetReimport: Importing new asset /Game/TopDownBP/Assets/Cabniets/Textures/internal_ground_ao_texture.
+[2020.02.01-18.13.00:946][101]AssetReimport: Importing new asset /Game/TopDownBP/Assets/Cabniets/Cabinets.
+[2020.02.01-18.13.03:199][319]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-18.13.03:202][319]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-18.13.35:657][193]Warning: RebindPackages not possible (no packages specified)
+[2020.02.01-18.13.38:848][572]MapCheck: New page: Map Check
+[2020.02.01-18.13.38:869][572]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.01-18.13.38:871][572]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.01-18.13.39:076][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.01-18.13.39:135][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:141][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:148][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.01-18.13.39:162][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:174][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:185][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:191][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:199][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:207][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:213][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.39:220][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-18.13.42:982][572]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.01-18.13.42:982][572]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.01-18.13.42:982][572]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.01-18.13.42:982][572]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-18.13.42:982][572]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-18.13.42:982][572]TextureStreamingBuild: Display: Compiling optional shaders took 3.850 seconds.
+[2020.02.01-18.13.43:002][572]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2020.02.01-18.13.43:087][572]TextureStreamingBuild: Display: Build Texture Streaming took 0.084 seconds.
+[2020.02.01-18.13.43:127][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.01-18.13.43:127][572]LightingResults: New page: Lighting Build - Feb 1, 2020, 1:13:43 PM
+[2020.02.01-18.13.43:135][572]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.01-18.13.43:139][572]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.01-18.13.43:139][572]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.01-18.13.43:140][572]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.01-18.13.43:140][572]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16648
+[2020.02.01-18.13.47:666][572]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.01-18.13.47:666][572]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.01-18.13.47:666][572]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.01-18.13.47:666][572]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.01-18.13.47:666][572]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.01-18.13.47:911][572]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.01-18.13.47:911][572]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 1:13:47 PM
+[2020.02.01-18.13.47:911][572]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.01-18.13.47:912][572]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.753ms to complete.
+[2020.02.01-18.13.47:935][572]LogEditorBuildUtils: Build time 0:09
+[2020.02.01-18.13.48:237][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.01-18.13.59:684][590]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-18.13.59:684][590]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-18.13.59:761][597]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-18.13.59:761][597]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-18.13.59:893][609]LightingResults: Warning: Doom_3_Comp_Desk_Plane003 Object has overlapping UVs.
+[2020.02.01-18.13.59:893][609]LightingResults: Doom_3_Comp_Desk_Plane003 Lightmap UV are overlapping by 20.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.01-18.13.59:933][612]Job is a success!
+[2020.02.01-18.13.59:994][614]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.02.01-18.13.59:994][614]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.01-18.13.59:994][614]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.01-18.13.59:994][614]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.01-18.13.59:996][614]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2020.02.01-18.13.59:996][614]LogVolumetricLightmapImport:          1: 4.3% covering 1.6% of volume
+[2020.02.01-18.13.59:996][614]LogVolumetricLightmapImport:          2: 91.3% covering 0.5% of volume
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 32X32)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 256X256)
+[2020.02.01-18.14.00:175][614]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X64)
+[2020.02.01-18.14.00:193][614]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 18 meshes in 3 LightmapResourceClusters (6.0 Meshes per cluster).
+[2020.02.01-18.14.00:221][614]Lightmass on DESKTOP-O7QDRHQ: 11.5 sec total, 427 ms importing, 1.09 sec setup, 3.77 sec photons, 6.17 sec processing, 0 ms extra exporting [392/392 mappings]. Threads: 30.8 sec total, 16.9 sec processing.
+[2020.02.01-18.14.00:224][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.01-18.14.00:243][614]LogStaticLightingSystem: Illumination: 17.1 sec (96 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2020.02.01-18.14.00:243][614]LogStaticLightingSystem: Lightmap texture memory:  1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 6 textures
+[2020.02.01-18.14.00:243][614]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2020.02.01-18.14.00:683][614]DumpUnbuiltLightIteractions
+[2020.02.01-18.14.00:683][614]Lights with unbuilt interactions: 0
+[2020.02.01-18.14.00:683][614]
+[2020.02.01-18.14.00:683][614]Primitives with unbuilt interactions: 0
+[2020.02.01-18.14.00:755][615]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.01-18.14.00:755][615]MapCheck: New page: TopDownExampleMap - Feb 1, 2020, 1:14:00 PM
+[2020.02.01-18.14.00:760][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.188ms to complete.
+[2020.02.01-18.14.46:445][ 59]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-18.14.46:449][ 59]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-18.14.47:629][201]LogEditorViewport: Clicking on Actor (LMB): Brush (top4)
+[2020.02.01-18.14.58:377][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_bridge3)
+[2020.02.01-18.14.59:691][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_bridge4)
