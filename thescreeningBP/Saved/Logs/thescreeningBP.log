@@ -3642,3 +3642,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-18.16.36:362][ 72]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_Auto1708C05DF4DF21E4B25A6E6AE0B6F1337.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/JAM/the-screening/thescreeningBP/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
 [2020.02.01-18.16.36:366][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.414
 [2020.02.01-18.16.36:366][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.414
+[2020.02.01-18.17.55:616][314]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-18.17.57:180][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-18.17.57:223][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.01-18.17.57:583][486]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMapA65C804340EBBB2FE9F9E5B19F862D35.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.01-18.17.57:678][486]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/JAM/the-screening/thescreeningBP/Saved/TopDownExampleMap_BuiltDataB763A7C1475458B1CE832EA21989BE55.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/JAM/the-screening/thescreeningBP/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
