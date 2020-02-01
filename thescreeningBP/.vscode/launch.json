@@ -1,0 +1,104 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "thescreeningBP (Debug)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBP Linux Debug Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Binaries/Linux/thescreeningBP-Linux-Debug",
+			"args": [
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBP (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBP Linux DebugGame Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Binaries/Linux/thescreeningBP-Linux-DebugGame",
+			"args": [
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBP (Development)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBP Linux Development Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Binaries/Linux/thescreeningBP",
+			"args": [
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBP (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBP Linux Shipping Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Binaries/Linux/thescreeningBP-Linux-Shipping",
+			"args": [
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBP (Test)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBP Linux Test Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Binaries/Linux/thescreeningBP-Linux-Test",
+			"args": [
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBPEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBPEditor Linux Debug Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
+			"args": [
+				"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/thescreeningBP.uproject"
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBPEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBPEditor Linux DebugGame Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/thescreeningBP.uproject"
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "thescreeningBPEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "thescreeningBPEditor Linux Development Build",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/thescreeningBP.uproject"
+			],
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "mono",
+			"request": "launch",
+			"program": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+			"console": "internalConsole",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/thescreeningBP.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "/home/jgvidotto/Documents/UnrealProjects/UnrealEngine"
+		}
+	]
+}
