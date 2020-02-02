@@ -11,9 +11,9 @@ AthescreeningGameMode::AthescreeningGameMode()
 	PlayerControllerClass = AthescreeningPlayerController::StaticClass();
 
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/TopDownCPP/Blueprints/TopDownCharacter"));
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/TopDownCPP/Blueprints/ScreeningCharacter"));
 	if (PlayerPawnBPClass.Class != NULL)
 	{
-		// DefaultPawnClass = PlayerPawnBPClass.Class;
+		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 }
