@@ -1,9 +1,0 @@
-{
-	"files.exclude": {
-		"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/.vscode": true,
-		"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Content": true,
-		"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/DerivedDataCache": true,
-		"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Intermediate": true,
-		"/home/jgvidotto/Documents/UnrealProjects/the-screening/thescreeningBP/Saved": true
-	}
-}
