@@ -3,3 +3,12 @@
 
 #include "ObjectsWidget.h"
 
+UObjectsWidget::UObjectsWidget(const FObjectInitializer& ObjectInitializer)
+{
+
+}
+
+void UObjectsWidget::NativeConstruct()
+{
+	Super::NativeConstruct(); 
+}
